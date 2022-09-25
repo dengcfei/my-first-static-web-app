@@ -1,5 +1,5 @@
 <template>
-  <div>Hello {{ value }}</div>
+  <div>Hello dcf {{ value }}</div>
 </template>
 
 <script>
